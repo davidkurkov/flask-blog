@@ -9,7 +9,7 @@ import sqlite3
 DATABASE = 'blog.db'
 USERNAME = 'admin'
 PASSWORD = 'admin'
-SECRET_KEY = 'hard_to_guess'
+SECRET_KEY = 'Cf\xd9\x81~a\xb4\xdeh\r\xbcC\x977\xe2\xab\xbf\xf2$55@\xa9'
 
 app = Flask(__name__)
 
